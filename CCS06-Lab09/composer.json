@@ -1,5 +1,5 @@
 {
-    "name": "JerielJocson/ccs06-load-update-delete",
+    "name": "xpop134/ccs06-load-update-delete",
     "require": {
         "vlucas/phpdotenv": "^5.5"
     },
